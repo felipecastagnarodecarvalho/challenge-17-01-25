@@ -1,0 +1,16 @@
+
+
+/*
+
+Information:
+email_names.json -- has first name, last name, email
+    Example: {"id":1,"first_name":"Patricia","last_name":"Mackiewicz","email":"pmackiewicz0@alexa.com"}
+email_numbers.json -- has email, cc_number
+    Example: {"id":1,"email":"pholt0@ftc.gov","cc_number":"3555060285229115"},
+
+Objective:
+For all matching emails that exist ONCE in EACH list, return first_name, last_name, cc_number and email. If an email appears more or less than once in either list it should not be returned.
+
+Instructions for submitting:
+When submitting your solution, include the expected output.
+*/
